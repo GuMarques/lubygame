@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question": "Qual a cor da cueca do Superman?",
+      "answers": ["Azul", "Vermelho", "Amarelo", "Branco"],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Qual desses não é um poder do Hulk?",
+      "answers": [
+        "Super Força",
+        "Regeneração",
+        "Palmas trovejantes",
+        "Super Velocidade"
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Thor e Capitão América são de que grupo?",
+      "answers": ["Os Vingativos", "Liga da Justiça", "X-Men", "Os Vingadores"],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Qual desses não é um inimigo do Batman?",
+      "answers": ["Era Venenosa", "Asa Noturna", "Coringa", "Mulher-gato"],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Qual o verdadeiro nome do Capitão América",
+      "answers": [
+        "Steve Stranger",
+        "Roger Stark",
+        "Steve Rogers",
+        "Tony Stark"
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "question": "Qual o nome do martelo de Thor?",
+      "answers": ["Vanir", "Mjolnir", "Asgard", "Odin"],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "Qual o material do escudo do Capitão América",
+      "answers": ["Adamantium", "Promécio", "Carbonádio", "Vibranium"],
+      "correctAnswer": "d"
+    },
+    {
+      "question": "Antes de se tornar Vision, qual era o nome do modormo IA do Homem de Ferro",
+      "answers": ["JARVIS", "ALFRED", "JEFREY", "HOMER"],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Qual a especialização médica do Doctor Strange",
+      "answers": [
+        "Neurocirurgião",
+        "Cirurgião Plástico",
+        "Cirurgião cardiológico",
+        "Cirurgião de trauma"
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "question": "Quem matos os pais de Tony Stark?",
+      "answers": [
+        "Chicote Negro",
+        "Soldado Invernal",
+        "Loki",
+        "Capitão América"
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "question": "",
+      "answers": ["", "", "", ""],
+      "correctAnswer": "a"
+    }
+  ]
+}
